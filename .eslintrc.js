@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['reverentgeek/node '],
+  extends: ['reverentgeek/node'],
 };
